@@ -1,6 +1,6 @@
 # AdGuard Home log parser
 
-This tool parses AdGuard Home log files into human readable format.
+This tool parses [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome) log files into human readable format.
 
 ## Usage
 
